@@ -1,5 +1,8 @@
 # www.diagnosight.com
 
+DiagnoSight - Vision-Based Diagnostics
+
+![DiagnoSight - Vision-Based Diagnostics](https://github.com/user-attachments/assets/bcf64399-d47b-4777-bace-8f49b2606986)
 
 
 
