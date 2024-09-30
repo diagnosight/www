@@ -15,3 +15,13 @@ DiagnoSight offers cutting-edge medical cameras and imaging solutions designed t
 "Clarity in Every Image, Confidence in Every Diagnosis"
 
 This motto encapsulates DiagnoSight's commitment to providing high-quality imaging solutions that medical professionals can rely on. It emphasizes the brand's focus on clarity of images and the resulting confidence it gives to healthcare providers in their diagnostic processes.
+
+
+## Offer
+
++ Wearable health monitors that the person chooses to use
++ Smart home systems focused on safety (e.g. fall detection mats, medication reminders)
++ Scheduled check-ins and visits from home health aides
++ Telehealth consultations with healthcare providers
++ Community programs to reduce isolation and support independent living
++ IP Camera with person anonimization for health monitoring
