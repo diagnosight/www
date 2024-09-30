@@ -25,3 +25,6 @@ This motto encapsulates DiagnoSight's commitment to providing high-quality imagi
 + Telehealth consultations with healthcare providers
 + Community programs to reduce isolation and support independent living
 + IP Camera with person anonimization for health monitoring
++ Voice-activated emergency alert systems
++ Scheduled virtual check-ins with healthcare providers
++ AI-assisted medication management systems
