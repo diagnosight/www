@@ -2,8 +2,8 @@
 
 DiagnoSight - Vision-Based Diagnostics
 
-![DiagnoSight - Vision-Based Diagnostics](https://github.com/user-attachments/assets/bcf64399-d47b-4777-bace-8f49b2606986)
 
+![DiagnoSight - Vision-Based Diagnostics](https://github.com/user-attachments/assets/1c900bd8-d0bc-4b67-ad54-a28c83a92f37)
 
 
 DiagnoSight is a brand specializing in advanced medical imaging technologies. 
